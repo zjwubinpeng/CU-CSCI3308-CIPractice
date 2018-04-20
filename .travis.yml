@@ -1,4 +1,6 @@
 language: c
-script: scons
-install: make get-deps
-sudo: required
+install: make dep 
+script: make
+	make test  
+complier: -gcc
+sudo: enabled 
