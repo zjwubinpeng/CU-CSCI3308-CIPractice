@@ -1,6 +1,6 @@
-# Binpeng Wu, Hao Yuan
+# Andy Sayler
 # CI Practice
-# Fall 2018
+# Summer 2014
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
@@ -10,6 +10,7 @@ PKG_MATH_LIBS = -lm
 PKG_CHECK_LIBS = `pkg-config --libs check`
 
 .PHONY: all dep clean
+
 test: geometry_test
 	./geometry_test
 
