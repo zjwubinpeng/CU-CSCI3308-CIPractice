@@ -1,6 +1,6 @@
-# Andy Sayler
+# Binpeng Wu, Hao Yuan
 # CI Practice
-# Summer 2014
+# Fall 2018
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra
