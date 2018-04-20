@@ -1,8 +1,8 @@
 /*
  * geometry_test.c
- * Andy Sayler
- * CSCI 3308
- * Summer 2014
+ * Binpeng Wu, Hao Yuan
+ * CI Practice
+ * Spring 2018
  *
  * This file containsunit tests for geometry.c
  *
